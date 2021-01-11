@@ -15,7 +15,7 @@
 O projeto mataMosca é um jogo dinâmico onde o objetivo é matar os mosquitos até o tempo acabar, um jogo divertido e você pode treinar sua abilidade e rapidez equanto se diverte, existe até níveis para te entreter ainda mais. Foi criado com o intuito de colocar em prática todo o conteúdo que estudei durante um curso complementar. 
 
 
-<h3>🖥 Tecnologias ultilizadas</h3>
+<h3>🖥 Tecnologias utilizadas</h3>
 
 
 - javaScript
